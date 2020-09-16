@@ -24,5 +24,4 @@ const ProductData = {
         "Time", "Heart Rate"
     ]
 }
-
 export default ProductData
